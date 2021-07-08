@@ -8,8 +8,8 @@
  */
 
 // TODO
-let firstName = "Dias";
-let lastName = "Galih";
+let firstName = "Mawar";
+let lastName = "Melati";
 let age = 22;
 let isMarried = false;
 
